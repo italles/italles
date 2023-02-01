@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 💼 Trabalho como QA @ Geekie
 - 🧑🏽‍🎓 Ciência e Tecnologia @ UFABC
-- 👨🏽‍💻 Estudando sobre automação de testes
+- 👨🏽‍💻 Estudando sobre automação/gestão de testes
 - 😄 Pronomes: ele/dele
 -->
